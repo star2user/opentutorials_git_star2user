@@ -13,5 +13,6 @@ Branch
 충돌해결
 원격저장소
 푸시추가
+새로추가_master
 pull
 <ul>
